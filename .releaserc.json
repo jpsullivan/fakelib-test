@@ -20,13 +20,6 @@
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     [
-      "@semantic-release/npm",
-      {
-        "pkgRoot": "./dist/yup/fakelib",
-        "tarballDir": "dist"
-      }
-    ],
-    [
       "@semantic-release/github",
       {
         "assets": [
