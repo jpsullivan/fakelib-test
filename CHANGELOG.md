@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/jpsullivan/fakelib-test/compare/v1.0.1...v1.0.2) (2021-04-18)
+
+
+### Bug Fixes
+
+* removed pr template ([55209fc](https://github.com/jpsullivan/fakelib-test/commit/55209fc6d4ccac5e41cb974c13d6a794186e9077)), closes [#5](https://github.com/jpsullivan/fakelib-test/issues/5)
+
 ## [1.0.1](https://github.com/jpsullivan/fakelib-test/compare/v1.0.0...v1.0.1) (2021-04-18)
 
 
