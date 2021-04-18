@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jpsullivan/fakelib-test/compare/v1.0.0...v1.0.1) (2021-04-18)
+
+
+### Bug Fixes
+
+* removed extra character ([cf11fd6](https://github.com/jpsullivan/fakelib-test/commit/cf11fd6ad8c99a91155fdaea753a067de897757b)), closes [#1](https://github.com/jpsullivan/fakelib-test/issues/1)
+
 # 1.0.0 (2021-04-18)
 
 
